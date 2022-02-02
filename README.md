@@ -1,5 +1,5 @@
 ### "Olá mundo! \o/"
-My name is Johnny, and I'm from Brazil (🇧🇷). I'm a Software Developer and Computer Engineering Student at UFC.
+My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer</b> and Computer Engineering Student at UFC.
 
 <!--
 **sr-johnny/sr-johnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
