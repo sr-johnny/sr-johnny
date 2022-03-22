@@ -1,6 +1,10 @@
 ### "Olá mundo! \o/"
 My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer</b> and Computer Engineering Student at UFC.
 
+<h4>Know more:</h4>
+<a href="https://www.linkedin.com/in/johnny-marques/" target="_blank">
+  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
 <!--
 **sr-johnny/sr-johnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
