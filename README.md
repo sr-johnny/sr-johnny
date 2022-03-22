@@ -5,6 +5,9 @@ My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer
 <a href="https://www.linkedin.com/in/johnny-marques/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
+<a href="http://lattes.cnpq.br/1530551688113238" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
+</a>
 <!--
 **sr-johnny/sr-johnny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
