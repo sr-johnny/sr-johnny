@@ -1,5 +1,5 @@
 ## Olá mundo! \o/
-My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer</b> and Computer Engineering Student at UFC.
+<p>My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer</b> and <i>Computer Engineering Student</i> at UFC.</p>
 
 <div>
   <a href="https://github.com/sr-johnny">
@@ -27,7 +27,3 @@ My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer
 <a href="http://lattes.cnpq.br/1530551688113238" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
 </a>
-  
-<!--
-<img src="https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/lattes.svg">
--->
