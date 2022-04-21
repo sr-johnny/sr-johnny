@@ -1,8 +1,5 @@
 ## Olá mundo! \o/
-<p>My name is Johnny, and I'm from Brazil (🇧🇷). </p>
-<p>I'm a <b>Mobile App Developer</b> and Computer Engineering Student at UFC.</p>
-
-##
+My name is Johnny, and I'm from Brazil (🇧🇷). I'm a <b>Mobile App Developer</b> and Computer Engineering Student at UFC.
 
 <div>
   <a href="https://github.com/sr-johnny">
