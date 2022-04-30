@@ -27,3 +27,11 @@
 <a href="http://lattes.cnpq.br/1530551688113238" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
 </a>
+
+<h5>My Social Networks:</h5>
+<a href="https://www.instagram.com/sr_johnny/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/channel/UCNqO09FcTTxzINjqYifXpIw" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" />
+</a>
