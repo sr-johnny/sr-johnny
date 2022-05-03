@@ -34,4 +34,10 @@
 </a>
 <a href="https://www.youtube.com/channel/UCNqO09FcTTxzINjqYifXpIw" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white" />
+</a> 
+<a href="https://t.me/sr_johnny" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" />
+</a>
+<a href="mailto:johnny12mf@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
