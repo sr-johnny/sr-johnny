@@ -21,6 +21,9 @@
 </div>
 
 <h4>Know more:</h4>
+<a href="resume.pt-BR.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Curr%C3%ADculo-2A7A3F?style=for-the-badge&logo=DocuSign&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/johnny-marques/" target="_blank">
   <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
