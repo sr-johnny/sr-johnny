@@ -36,7 +36,7 @@
 <a href="http://lattes.cnpq.br/1530551688113238" target="_blank">
   <img src="https://img.shields.io/badge/Lattes-1F2D4A?style=for-the-badge" />
 </a>
-<a href="https://t.me/sr_johnny" target="_blank">
+<a href="https://t.me/sr_johnny" target="blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white" />
 </a>
 <a href="mailto:johnny12mf@gmail.com" target="blank">
